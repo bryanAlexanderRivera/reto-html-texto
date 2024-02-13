@@ -1,1 +1,18 @@
-# reto-html-texto
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Novela Ligeras Favoritas</title>
+    </head>
+    <body>
+        <h1>Mis novelas ligeras favoritas</h1>
+        <nav>
+            <a href="./index.html">inicio</a><br>
+            <a href="./libro1.html">Lord of Mistery</a><br>
+            <a href="./libro2.html">Lord in the shadow garden</a><br>
+            <a href="./libro3.html">I will Eternal</a>
+        </nav>
+        <h2>WELCOME TO MY PAGE</h2>
+
+        <p>¡explora mis novelas ligeras favoritas haciendo click en los enlaces de arriba!</p>
+    </body>
+</html>
